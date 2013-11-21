@@ -1,0 +1,588 @@
+stores:
+  - name: 'Rural Velo'
+    path: 'ruralvelo'
+    description: 'Handcrafted bicycles. Stylized after Paris, constructed in SF.'
+  - name: 'Tryna Style'
+    path: 'trynastyle'
+    description: 'California fashion house. Hella design for hella gents.'
+
+products:
+  ruralvelo:
+    - title: 'Folding Bicycle Hercules Auto Velo Bike Fold up German made'
+      description: |
+        Collectible folding bicycle vintage 1972 functional with original German case, labels printed in German Hercules Auto Velo Bike. The bicycle was lightly used and is in good condition and has not been out of the case since 1980.
+        Equipment/technical data:
+        -Size of frame: 30cm=11,81 inch. Space from seat post to head set (top tube, from center to center of tubes): 55cm=21,65 inch.
+        The frame is made of steel, weight - 12,20 kg.
+        -Wheels: 16 inch, Hubs: rear - Sachs Torpedo, front - Weco. Rims: Steel (chromed)
+        -Tires: Continental 16x1,75''
+        -head set: 1''
+        -Stem: Height: 135mm, length: 20mm
+        -Bar: made of steel, original
+        -fork: original
+        -brakes: rear - in Torpedo, front: Royal
+        -crank: Made of steel, length of arms: 165mm
+        -chain: original
+        -Shifters
+        -Brake levers: (only front) Weinmann
+        -Bottom bracket: ball bearings
+        -cassette sprocket: 1 speed
+        Contact us for more photos.
+        Send your shipping address for a custom shipping quote.
+      status: 'active'
+      price: 775
+      images:
+        - url: 'http://img1.etsystatic.com/013/0/6974363/il_570xN.426316265_6xmc.jpg'
+        - url: 'http://img1.etsystatic.com/015/0/6974363/il_570xN.426316333_hqd4.jpg'
+        - url: 'http://img1.etsystatic.com/013/0/6974363/il_570xN.426316393_cdhk.jpg'
+    - title: 'Bicycle Tie Bar'
+      description: |
+        Bicycle handstamped tie bar aluminum. One of several designs available in this aluminum tie bar the bicycle is perfect for anyone who's a bike enthusiast. Handstamped aluminum tie bar is given a brushed matt finish and tumbled for strength. Other designs available here http://www.etsy.com/shop/CallaToo?section_id=12157110 Perfect for groomsmen gifts.
+      status: 'active'
+      price: 18
+      images:
+        - url: 'http://img2.etsystatic.com/005/0/6848209/il_570xN.382536118_d0bb.jpg'
+        - url: 'http://img2.etsystatic.com/002/0/6848209/il_570xN.382535986_thi0.jpg'
+        - url: 'http://img3.etsystatic.com/006/0/6848209/il_570xN.382531599_oagd.jpg'
+        - url: 'http://img2.etsystatic.com/003/0/6848209/il_570xN.382536198_l24v.jpg'
+    - title: 'Waxed Canvas Pannier'
+      description: |
+        This bag has been made from waxed canvas and vegtable tanned leather, I love the combination of these materials.The natural leather has been treated with a wax finish and will darken beautifully with age.
+        I made it big enough for a small laptop or I-pad, and all your other necessaties.
+        This is perfect for your Spring and Summer pick nic.
+        The bag closes with a buckle and strap and is attached to the bike with a double buckle and strap.
+        There is a handle on top of the bag to carry the bag in hand.
+        The bag is made in fire-engine red waxed canvas, and has a closing flap in MOD olive green.
+        Fully lined with a blue cotton.
+        The size of this bag measures 30 cm tall and 38 cm wide, about 8cm deep
+        which is in inches, 11.8 inch tall and 14.9 inch wide and 3 deep
+        This bag is made with a lot of care and attention to detail in my home studio.
+      status: 'active'
+      price: 189.00
+      images:
+        - url: 'http://img0.etsystatic.com/011/2/6057565/il_570xN.443631476_6osb.jpg'
+        - url: 'http://img0.etsystatic.com/009/0/6057565/il_570xN.443631488_s1x8.jpg'
+        - url: 'http://img2.etsystatic.com/012/0/6057565/il_570xN.443631494_tipy.jpg'
+        - url: 'http://img0.etsystatic.com/009/0/6057565/il_570xN.443631536_5a5w.jpg'
+    - title: 'Leather Bike U-Lock Holster'
+      description: |
+        Finally a convenient and stylish way to carry your u-lock on your bicycle!
+        Inspired by Brooks saddles, I designed this holster after searching for months for a stylish, non-plastic way to carry my u-lock on my bike rather than in my bag, and refined the design on my bike commutes to ensure it stays put in a rattle-free way.
+        The u-lock holster has been featured on The Awesomer, Gear Culture, and Biped Fred.
+        Super-strong stitching keeps your lock tightly secured and rattle-free.
+        Hand-finished, hand-stitched thick leather holster attaches to your bike in two places on your front or rear rack using Chicago screws and a buckle closure.
+        It requires a flathead screwdriver to mount.
+        This u-lock holster is designed to fit the Kryptonite Evolution Mini-Evo 5 u-lock (or any lock with exterior dimensions approximately 5.5" wide crossbar x 7.25" long). U-lock companies include the inside dimensions of their u-locks in their specs rather than the outside (they measure the "hole" in the middle rather than the dimensions of the lock itself) - the Mini-5 is 5.5 x 7.25 on the outside and 3.25 x 5.5 on the inside.
+      status: 'active'
+      price: 73
+      images:
+        - url: 'http://img0.etsystatic.com/000/0/5676972/il_570xN.284908636.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/5676972/il_570xN.284909464.jpg'
+        - url: 'http://img3.etsystatic.com/000/0/5676972/il_570xN.284782003.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/5676972/il_570xN.164961592.jpg'
+    - title: 'Red Bike Business Card Case'
+      description: |
+        Metal Business Card Case Red Bike Bicycle Industrial Retro Style Metal Card Holder Men's Accessories & Gifts
+        Retro Industrial Design Style Shiny Nickel-Silver Plated Business Card Case / Credit Card Holder
+        Original Design Handcrafted By Cosmic Firefly Las Vegas
+        Limited Edition only a few pieces produced
+        • New
+        • Slender holds 10-12 standard size business cards
+        • The case itself is super shiny nickel silver plated metal with black perforated accent
+        • Raised Bicycle embellishment is red, black, and silver
+        • Size of case is 3 5/8 inches long by 2 1/4 inches wide by 3/8h of an inch thick
+        • Free black velour drawstring gift bag included for easy gift-giving
+        • We send all of our cases in a corrugated shipping box to arrive in perfect condition      status: 'active'
+      status: 'active'
+      price: 35
+      images:
+        - url: 'http://img3.etsystatic.com/008/1/5478368/il_570xN.376690383_53c8.jpg'
+        - url: 'http://img3.etsystatic.com/002/0/5478368/il_570xN.376690343_e83l.jpg'
+        - url: 'http://img2.etsystatic.com/006/0/5478368/il_570xN.376678842_lsxi.jpg'
+        - url: 'http://img2.etsystatic.com/000/0/5478368/il_570xN.235611250.jpg'
+    - title: 'Bike Planter in Teal'
+      description: |
+        Do you love riding your bike? What about plants? Bring your plants on an adventure and let them enjoy some sunshine and fresh air! If you’ve ever dreamed about attaching a plant to your bike, now you’re in luck! This bike planter is made using 3D printing technology, so not only will you be showing off your love of nature, but you’ll be participating in a little piece of the future.
+        This bike planter is created digitally with modeling software. It is then 3d printed out of nylon, hand dyed teal, and sealed with a UV protective varnish to protect the color. Due to the hand dying process, the color of this planter may vary slightly. This planter works best with a clipping from a succulent that has been allowed to take root or a large air plant.
+        This planter attaches firmly to your bike with an elastic nylon cord, and will fit snugly on most tube sizes. You’ll have to supply your own plant and bicycle to make your next adventure fully amazing!
+        Measures 2.3” tall, 1.4” wide, and 1” deep. This listing is for a teal bike planter with a yellow elastic cord. Directions for use are included with the planter. This item ships domestically via USPS Priority Mail, and internationally by USPS first class mail. This item is made to order, and takes about 2 weeks to ship. If you would like to use a different shipping method for this item, please contact me before ordering to arrange.      price: 35
+      status: 'active'
+      price: 45
+      images:
+        - url: 'http://img0.etsystatic.com/000/0/6170339/il_570xN.311474044.jpg'
+        - url: 'http://img1.etsystatic.com/000/0/6170339/il_570xN.311341309.jpg'
+        - url: 'http://img3.etsystatic.com/000/0/6170339/il_570xN.311341299.jpg'
+        - url: 'http://img1.etsystatic.com/000/0/6170339/il_570xN.310682145.jpg'
+    - title: "bohemian biker's summer sandal"
+      description: |
+        beautiful mens woven shoes. Do not have a size but I estimate them at a men's 12.
+        Perfect for that summer day, riding through Dolores Park.
+      status: 'active'
+      price: 32.00
+      images:
+        - url: 'http://img2.etsystatic.com/002/0/6736345/il_570xN.375238706_u86v.jpg'
+        - url: 'http://img3.etsystatic.com/004/0/6736345/il_570xN.375248231_10tj.jpg'
+        - url: 'http://img1.etsystatic.com/003/0/6736345/il_570xN.375248229_nbkw.jpg'
+        - url: 'http://img0.etsystatic.com/001/0/6736345/il_570xN.393591468_bgff.jpg'
+    - title: 'Glowmatic - Sweeeeeet LED Bike Lights'
+      description: |
+        Only the most awesomest new bike accessory ever!!!! Glowmatic - LED bike lights look so cool and dramatically increase your visibility and road safety - Be seen, be safe! We have over a hundred delighted customers already on Etsy and would love you to join them.
+        We have several colors available - Red, Pink, White, Blue, green and purple (purple currently out of stock). For more photos of bikes with Glowmatic LED lights on, visit our Facbook page.
+        The purchase price is $24.95 plus shipping and the product usually ships within 1-2 business days. SHIPS BY PRIORITY MAIL - 2-3 BUSINESS DAYS DELIVERY within the US. International usually takes a week or two.
+        Your order will include 2 Glowmatic LED bike lights (one unit for each wheel) and you can mix colors if you like. Each unit includes 3 AA batteries that last up to 40 hours of constant use. (Red lights use 2 AA batteries and last the same time).
+        We offer a money back guarantee if you are not 100% happy (not including shipping). Product must be returned in unused original condition.
+      status: 'active'
+      price: 24.95
+      images:
+        - url: 'http://img3.etsystatic.com/008/0/7308487/il_570xN.376535487_igl4.jpg'
+        - url: 'http://img0.etsystatic.com/003/0/7308487/il_570xN.376523380_c4r0.jpg'
+        - url: 'http://img1.etsystatic.com/002/0/7308487/il_570xN.376535685_qgxv.jpg'
+    - title: 'Bike Love Baby Skinnies'
+      description: |
+        Perfect for your little one!
+        These skinnies are hand printed with the carlymegan original bike design and made from lightweight super stretchy gray cotton spandex. These are meant to be a snug fit and have extra length in the legs for some bunching at the bottom. Great layered under other pieces of clothing (tees, tank tops, button downs, shorts, skirts, etc) or worn with just a onesie.
+        Since each one is hand made, slight variations in the print placement may occur. This truly means you're getting a one-of-a-kind item!
+      status: 'active'
+      price: 18.00
+      images:
+        - url: 'http://img0.etsystatic.com/013/0/5640051/il_570xN.446411784_jwly.jpg'
+        - url: 'http://img0.etsystatic.com/011/0/5640051/il_570xN.446411908_ht4p.jpg'
+        - url: 'http://img2.etsystatic.com/014/0/5640051/il_570xN.441889562_1836.jpg'
+        - url: 'http://img1.etsystatic.com/009/0/5640051/il_570xN.441898929_2lzq.jpg'
+    - title: 'Cantilevered Edge Bike Rack in Maple'
+      description: |
+        This rack design is 16 inches wide, 3 and 3/4 high and the shelf is just under 12 deep. It mounts with two screws into two studs on a 16" center stud layout. Two upcycled spoke ends make a handy spot to store your backpack and helmet. The slot for the top tube is an inch and three quarters, and this rack will accommodate handlebars up to 18 inches wide.
+        Contact me if you need a custom size for either the top tube or handlebar width. Mounts with two screws into two studs on a 16" center stud layout. Mounting instructions and hardware are included. Sealed with oil based polyurethane
+      status: 'active'
+      price: 75.00
+      images:
+        - url: 'http://img3.etsystatic.com/012/0/6501983/il_570xN.447845831_4xul.jpg'
+        - url: 'http://img2.etsystatic.com/014/0/6501983/il_570xN.447837258_sfrj.jpg'
+        - url: 'http://img1.etsystatic.com/015/0/6501983/il_570xN.447845901_lxtd.jpg'
+        - url: 'http://img3.etsystatic.com/016/0/6501983/il_570xN.447845951_beyb.jpg'
+    - title: 'wooden bike hook, minimal and simple'
+      description: |
+        These minimal wooden bike hooks are made for light sports bikes that you want to store indoors. I tried to create a very simple but good looking bike storage solution which works in my home. The beautiful and natural oak wood makes these hooks appear like a peace of high quality furniture.
+        This pair comes in plain oak wood and will be shipped in a beautiful white box. The box includes a pair of wooden bike hooks, two shelf supports with dowels as shown in the last picture and assembly instructions.
+        Mounting:
+        Prerequisite for using the bike hooks is the perfect assembly and a stable wall.
+        The two included dowels can be used in some but not all walls.
+        Check your wall and use dowels that work with it.
+        The dowels need to be seated straight and firmly into the wall as a prerequisite to screw the shelf support straight and tight into the dowel against the wall. If the shelf support is mounted you can put the wooden bike hooks over the shelf support with both hands.
+        The bike hooks are made for light sports bikes that you want to store indoors and may not work with heavier bicycles.
+      status: 'active'
+      price: 100.50
+      images:
+        - url: 'http://img3.etsystatic.com/000/0/6857844/il_570xN.329705167.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/6857844/il_570xN.329842748.jpg'
+        - url: 'http://img3.etsystatic.com/012/0/6857844/il_570xN.431460391_h6ub.jpg'
+        - url: 'http://img3.etsystatic.com/000/0/6857844/il_570xN.329705123.jpg'
+    - title: 'Zodiac bike bell'
+      description: |
+        Zodiac bike bell
+        This is a fantastic artistic interpretation of the zodiac. Pictured is:
+        Leo
+        Aries
+        Cancer
+        Gemini
+        Taurus
+        Please ask to see other signs if you would like, I am working on getting the rest photographed and posted:)
+        The image on the bell is 1 1/2 inches in diameter. This bell is fully functioning and adds a little cool to any bike. This makes a unique and special gift! Makes great shower gifts and can be totally customized with names, dates, and pictures. Ask about a discount on orders over 5 pieces.
+      status: 'active'
+      price: 16.00
+      images:
+        - url: 'http://img2.etsystatic.com/008/0/6004722/il_570xN.401258302_n297.jpg'
+        - url: 'http://img1.etsystatic.com/003/0/6004722/il_570xN.401253077_5oar.jpg'
+        - url: 'http://img0.etsystatic.com/003/0/6004722/il_570xN.401258176_6ms4.jpg'
+    - title: 'bike necklace,retro silver love bike,alloy necklace'
+      description: |
+        If you want the bracelet bigger or smaller,pls email me.I can make anysize you what.Thanks
+        We will sent your package to you in 1-3 days when you complete the order , we are in China, it is a long delivery, so take a long time, usually need 15-35 days, so please wait patiently, our things are worth waiting for
+        When you finish your order,pls give me your correct address and telephone No,that 's very important,so after you finish the order,pls confirm your information,if you can't receive your package on account of information,we aren't responsible for your package.Pls understand.
+      status: 'active'
+      price: 10.95
+      images:
+        - url: 'http://img0.etsystatic.com/005/0/6861452/il_570xN.395359400_o4vs.jpg'
+        - url: 'http://img1.etsystatic.com/007/0/6861452/il_570xN.395355085_im2r.jpg'
+        - url: 'http://img2.etsystatic.com/008/0/6861452/il_570xN.395359470_hb3w.jpg'
+    - title: 'Bike Beer Growler Holder Cover Carrier'
+      description: |
+        Leather beer growler carrier for your bicycle.
+        So you need to make a trip to your local brewery to fill your beer growler with your favorite craft brew to go enjoy at home, the park, a party, wherever. What better way to make that trip than on your bike and what better way to carry that beer growler than with a hand crafted, classy, stylish leather beer growler holder fixed securely to your bike. This growler holder looks so good that I often attract attention and get compliments from people who don't even know what a beer growler is, and when I tell them what it is they like it even more.
+        This holder is sturdy and durable, I just "tested" it on a recent trip from Seattle to San Francisco. It came with me and my bike riding down the coast in the sun, rain and fog. (The first image is actually from half way through the trip and as you can see still looks beautiful after 500 long miles on the road.) Stopping at nearly every brewery along the west coast that we passed it held up remarkably. My riding friend and I were a hit when we showed up at each hiker biker site with a full growler of the local micro brew of the day.
+        Hand crafted with as much care as the wonderful craft beer that fills your beer growler. Great for transporting your home brew in style or standing out and looking classy when you take that growler to be filled at your local brewery. This growler cover will attract attention and protect your growler at the same time.
+      status: 'active'
+      price: 80.00
+      images:
+        - url: 'http://img3.etsystatic.com/008/0/7036980/il_570xN.371766671_8yxm.jpg'
+        - url: 'http://img1.etsystatic.com/007/0/7036980/il_570xN.367452045_dv18.jpg'
+        - url: 'http://img0.etsystatic.com/003/0/7036980/il_570xN.377159232_mryj.jpg'
+        - url: 'http://img2.etsystatic.com/006/0/7036980/il_570xN.367444346_bpfv.jpg'
+    - title: 'Bike Mug Bicycle This is How I Roll'
+      description: |
+        This is How I Roll- as seen in the December issue of RIDE ON magazine
+        Handmade in my New Jersey studio, this mug features a glossy white glaze on the outside, a glossy jet black interior. On the front is the bold image of a bike with the text: THIS IS HOW I ROLL.
+        Do you know a bike lover or bicycle rider who lives life on two wheels? Great for coffee or tea, this mug measures 4 x 4 and holds 16 oz. Dishwasher/microwave safe.
+        Created from a local earthenware clay- kiln fired three times to over 1900 degrees. All lead free, eco friendly, non toxic materials were used. This mug is safe to place in the dishwasher and microwave- created to be used and enjoyed on a daily basis.
+        This item ships immediately. I would love to save you money on shipping and can do so when you purchase more than one item. Because Etsy does not have a shipping calculator the shipping total does not adjust at purchase time: I package and weigh your items and then refund the overage directly to your Paypal account or credit card
+      status: 'active'
+      price: 15.00
+      images:
+        - url: 'http://img0.etsystatic.com/003/0/5500740/il_570xN.361522788_dq8d.jpg'
+        - url: 'http://img1.etsystatic.com/007/0/5500740/il_570xN.361532637_hxks.jpg'
+        - url: 'http://img1.etsystatic.com/005/0/5500740/il_570xN.361532521_e175.jpg'
+    - title: 'City Handle Bars'
+      description: |
+        Old-fashioned sew-on leather grips for your city bicycle handlebars.
+        Leather is functional and tactile, and it wears beautifully the more it is handled (and it's fine in the rain!).
+        It gets grippier when wet, and more beautiful with age as the oils in your hand give it a nice patina.
+        The leather is made with vegetable-tanned leather I finish with a combination process including Walnut Studiolo's weatherproofing dressing.
+        The leather pictured here is dark brown.
+        Pre-punched stitching guides along the sides, and comes with choice of white, tan, dark brown, or black waxed thread stitching kit.
+      status: 'active'
+      price: 32.95
+      images:
+        - url: 'http://img3.etsystatic.com/000/0/5676972/il_570xN.284793663.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/5676972/il_570xN.332161716.jpg'
+        - url: 'http://img0.etsystatic.com/011/0/5676972/il_570xN.435728468_izyo.jpg'
+    - title: 'Large Bike Wall Art - The Distressed Retro Bicycle Screen Print'
+      description: |
+        PLEASE READ FULL ITEM DESCRIPTION PRIOR TO ORDERING - THANK YOU!!
+        Design ::: The Distressed Retro Bike Painting on 1/2" thick panels
+        Distressed ::: Distressed edges are Espresso - contact us for customization
+        Background ::: Orange - customizable
+        Print ::: White - customizable
+        Size ::: Panels are 12x12” six prints without spacing = 24x36”
+        Specs ::: Artwork is created by hand in our art studio using artistic techniques on six durable 12"x12" panels. There are No printers involved in this process. Each collection has handmade imperfections making it unique and truly one of a kind. Sides are painted and will arrive ready to hang with our signature on the back. Colors may vary due to computer monitor calibrations. Paint samples can be ordered
+      status: 'active'
+      price: 165.00
+      images:
+        - url: 'http://img2.etsystatic.com/016/0/5549581/il_570xN.417825646_q5f2.jpg'
+        - url: 'http://img2.etsystatic.com/014/0/5549581/il_570xN.417825674_j7bq.jpg'
+        - url: 'http://img1.etsystatic.com/013/0/5549581/il_570xN.417835513_b0xr.jpg'
+        - url: 'http://img0.etsystatic.com/011/0/5549581/il_570xN.417825748_p61h.jpg'
+    - title: 'Bike Basket - Large walnutwood bike basket'
+      description: |
+        I was recently comisioned to make a bike basket that would be larger then normal, sturdy, lightweight and still have the warm aesthetic of wood. This basket is the result of that request and has reinforced my enjoyment of custom orders.
+        It measure 21" long x 15" wide x 10" high and can easily accomodate most shoulder bags, purses, and finds at the vintage store or farmers markets.
+        The curved laminations create a light weight structure that is strong enough to handle daily use. Furthermore, a weatherproof epoxy and a durale oil finish help it to weather the elements.
+        It is made out of solid Black Walnut and a durable plywood base. If you prefer, you may have your basket made out maple, white oak, or cherry.
+        Please feel free to convo me with any questions or requests
+      status: 'active'
+      price: 235.50
+      images:
+        - url: 'http://img2.etsystatic.com/014/0/5795020/il_570xN.452712650_jqhx.jpg'
+        - url: 'http://img2.etsystatic.com/010/0/5795020/il_570xN.452712482_jkab.jpg'
+        - url: 'http://img3.etsystatic.com/010/0/5795020/il_570xN.452720035_g2k5.jpg'
+        - url: 'http://img0.etsystatic.com/009/0/5795020/il_570xN.452712672_4kto.jpg'
+    - title: 'bike accessories, bicycle bell, cat with mustache'
+      description: |
+        Cat with Mustache super funny bike bell. All of the cats are great, let us choose one for you (there are also many that are not pictured) or pick from those pictured. This bell is fully functioning and adds a little cool to any bike. This makes a unique and special gift! Makes great shower gifts and can be totally customized with names, dates, and pictures. Ask about a discount on orders over 5 pieces.
+      status: 'active'
+      price: 16.00
+      images:
+        - url: 'http://img0.etsystatic.com/000/0/6004722/il_570xN.306643172.jpg'
+        - url: 'http://img1.etsystatic.com/000/0/6004722/il_570xN.306506517.jpg'
+        - url: 'http://img3.etsystatic.com/000/0/6004722/il_570xN.306506519.jpg'
+    - title: 'metal bicycle frame, vintage, orange, mod decor'
+      description: |
+        W H A T . I S . T H I S . T H I N G ?
+        This vintage metal bicycle frame is a fun table top home accessory. It's a nice statement piece sitting out on your coffee table, or just as fun tucked onto a shelf. We updated the paint job in a bright orange. Fresh and airy, it adds some decorative pop without the bulk.
+        The wooden seat is in the shape of a heart. And, the original paint job was rusted, so the metal frame has some textured spots here and there. Just adds to the rustic history of the piece.
+        T H E . S P E C S
+        metal, wood seat
+        10.5 inches long
+        4.5 inches wide
+        9.5 inches high
+        semi gloss orange paint
+        N E E D . T O . K N O W
+        We ship in 5 - 7 business days from the time you place your order.
+        Rush orders may be possible, just convo us beforehand to check.
+        We ship USPS, usually priority (2 - 3 business days)
+        Tracking must be requested at time of order.
+        Spray paint does not smell funny after it is dry.
+        We are happy to repaint for free!
+      status: 'active'
+      price: 22.00
+      images:
+        - url: 'http://img2.etsystatic.com/014/0/6572260/il_570xN.414021578_7flz.jpg'
+        - url: 'http://img0.etsystatic.com/009/0/6572260/il_570xN.414021584_jr6q.jpg'
+        - url: 'http://img2.etsystatic.com/016/0/6572260/il_570xN.414021582_8u7d.jpg'
+        - url: 'http://img0.etsystatic.com/011/0/6572260/il_570xN.414021588_iy36.jpg'
+
+  trynastyle:
+    - title: 'Nintendo NES Controller Cufflinks'
+      description: |
+        A pair of high quality silver nintendo nes cufflinks for men. Handcrafted with a crystal clear glass dome on top that enhances the artwork. A fun gift for men that comes in an organza bag for gift giving.
+        Cufflink size : 18mm x 18mm.
+      status: 'active'
+      price: 19.95
+      images:
+        - url: 'http://img1.etsystatic.com/003/0/7155618/il_fullxfull.402132101_a4bs.jpg'
+        - url: 'http://img0.etsystatic.com/001/0/7155618/il_fullxfull.383809224_4pxz.jpg'
+        - url: 'http://img2.etsystatic.com/008/0/7155618/il_fullxfull.383809234_cnjo.jpg'
+    - title: 'Dr. Who Inspired Tardis Bow Tie'
+      description: |
+        100% Cotton Bow Tie
+        Single sided print (Tardis on one side, other side blank)
+        * 2.5 inch bow
+        * 14 - 19 inch adjustable neck with slide adjustment
+        * Approximately 38 inches total length
+        These self-tie bow ties are produced by hand by me. Each order includes instructions on how to tie a bow tie.
+      status: 'active'
+      price: 20.00
+      images:
+        - url: 'http://img1.etsystatic.com/005/0/5478340/il_570xN.394068725_rin7.jpg'
+        - url: 'http://img2.etsystatic.com/000/0/5478340/il_570xN.334276138.jpg'
+        - url: 'http://img3.etsystatic.com/000/0/5478340/il_570xN.334144263.jpg'
+    - title: "Dapper Fox Men's Tie"
+      description: |
+        Men's Necktie - Dapper Fox Men's Tie - Men's Fox Necktie
+        A stylish, handsome fox adorns this original tie. He's suave and sophisticated and wears a tweed jacket. He is the dapper fox.
+        ***This listing is for ONE necktie. Choose from the following colors:
+        (from left to right in first picture)
+        taupe
+        ash (out of stock)
+        red-orange
+        silver
+      status: 'active'
+      price: 28.00
+      images:
+        - url: 'http://img1.etsystatic.com/000/0/5912974/il_570xN.312092205.jpg'
+        - url: 'http://img2.etsystatic.com/000/0/5912974/il_570xN.312221430.jpg'
+        - url: 'http://img1.etsystatic.com/000/0/5912974/il_570xN.312092201.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/5912974/il_570xN.312221428.jpg'
+    - title: 'Stegosaurus Dinosaur in a Splash of Color Belt Buckle'
+      description: |
+        Great Snap Belt Buckle of a Stegosaurus For Men and Women
+        All Belt Buckles are made from prints of my original paintings, and embedded in a high quality resin for durability.... They are water resistant, just try to avoid swimming with your belt buckle on.
+        Rectangle Belt Buckle Design Measurements
+        3 1/2 X 2 1/2"
+        Fits Belts up to 1 1/2"
+      status: 'active'
+      price: 32.00
+      images:
+        - url: 'http://img0.etsystatic.com/011/0/5604829/il_570xN.423971396_dtus.jpg'
+        - url: 'http://img1.etsystatic.com/007/0/5604829/il_570xN.391647849_ir1p.jpg'
+        - url: 'http://img1.etsystatic.com/007/0/5604829/il_570xN.391647909_dv9z.jpg'
+    - title: 'Italian veg tan leather enterely hand-crafted'
+      description: |
+        This personalized leather wallet is completely hand assembled and sewn in Italy using genuine italian vegetable tanned leather.
+        THIS IS NOT A SEWING MACHINE PRODUCT!
+        The leather was cut, etched and dyed by hand.
+        This wallet is very pratical thanks to the its small size and it is also really sturdy.
+        Into the wallet there are:
+        - 2 bill compartments;
+        - 8 pockets that hold credit cards, licenses or ID cards;
+        - 4 secret pockets.
+        I can personalize it with the hand incision of initials, names, prhases or semplified picture, simply you tell me what you like that I etch on the wallet.
+      status: 'active'
+      price: 150.00
+      images:
+        - url: 'http://img1.etsystatic.com/007/0/6856316/il_570xN.371714029_qkb3.jpg'
+        - url: 'http://img0.etsystatic.com/005/0/6856316/il_570xN.371704280_6m16.jpg'
+        - url: 'http://img2.etsystatic.com/004/0/6856316/il_570xN.371704054_jwnq.jpg'
+        - url: 'http://img1.etsystatic.com/003/0/6856316/il_570xN.371714389_lpwt.jpg'
+    - title: 'PASSPORT COVER - Bike Love'
+      description: |
+        Travel in style and NEVER get your passport CONFUSED with another again.
+        This passport cover has been made with thick, quality vinyl (12 gauge), and then decorated with one of my favorite printed card stock papers.
+        These vinyl covers are durable, yet slim enough that it can be slid through the machine at customs (if you have a bulkier cover, like leather or fabric, you WILL have to remove your passport from the case each time you use it).
+        MEASUREMENTS:
+        Overall - 5 1/4" x 7 3/8" (13.3cm x 18.75cm)
+        Folded - 5 1/4" x 3 5/8" (13.3 cm x 9.2cm)
+        Pockets - front 5 1/4" x 1" (13.3cm x 2.5cm)
+        - back 5 1/4" x 2 3/8" (13.3cm x 6cm)
+      status: 'active'
+      price: 15.00
+      images:
+        - url: 'http://img1.etsystatic.com/000/0/5971768/il_570xN.261103177.jpg'
+        - url: 'http://img1.etsystatic.com/000/0/5971768/il_570xN.261102185.jpg'
+        - url: 'http://img3.etsystatic.com/000/0/5971768/il_570xN.224752523.jpg'
+    - title: 'all black men holster'
+      description: |
+        our new pistol pete is similar to our sobaqueras in terms of size and comfort, but its new back design and more compact pockets hug your body tighter. . in the world we live in its always good to be prepared, pistol pete gives you just enough pack capacity to carry the essentials (your phone, money, a gadget or two) while not bogging you down. for all those wannabe machos this product is the ultimate addition for your gun-toting madmax cowboy look. who said man purses couldn't be cool!
+        so we do our sizing based on exact measurements- three to be specific- they are listed below. this way we can make sure our holsters fit perfectly, no matter your body's shape or size. once you've made the purchase, it usually takes us 24-48 hrs to complete the order and get it in the mail. normally shipping takes between 4-10. let us know what you'd like and we'll get to it!
+        for holsters
+        1- measure across the back from shoulder to shoulder
+        2- measure down the back from the bottom of the neck to the waistline
+        3- measure around the arm from the top of the shoulder to the middle of the armpit
+      status: 'active'
+      price: 51.00
+      images:
+        - url: 'http://img1.etsystatic.com/000/0/5963453/il_570xN.247045801.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/5963453/il_570xN.247011576.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/5963453/il_570xN.247011644.jpg'
+        - url: 'http://img1.etsystatic.com/000/0/5963453/il_570xN.247046021.jpg'
+    - title: 'Leather Messenger Bag Handmade Soft Leather'
+      description: |
+        • 100% authentic, naturally tanned GOAT leather
+        • Extremely soft in touch
+        • Absolute handmade Retro look CROSS BODY MESSENGER BAG with durable stitching and robust canvas lining
+        • Size (In inches) - 9(L), 7(H), 2.5(W)
+        • Satchel bag with 2 buckles
+        • Inside - 2 partitions/3 compartments and 1 zipper pocket
+        • Interiors adequately waxed with resilient canvas lining
+        • Adequately long and adjustable shoulder stripe
+        • Hardware made of authentic iron (YKK zippers)
+      status: 'active'
+      price: 41.00
+      images:
+        - url: 'http://img3.etsystatic.com/014/0/7748341/il_570xN.423431451_jop4.jpg'
+        - url: 'http://img1.etsystatic.com/015/0/7748341/il_570xN.423431453_bfy0.jpg'
+        - url: 'http://img1.etsystatic.com/013/0/7748341/il_570xN.423431449_bhyf.jpg'
+    - title: 'Mens Trench Coat / 1970s Navy Blue Coat'
+      description: |
+        > Vintage 1970s Mens Coat / detective coat
+        > Very elegant and classy piece
+        > Double breasted
+        > Detachable cape
+        > Large 2 outside pockets
+        > Plase mind that sleeves are pretty short (please check measurements bellow)
+        > Water and wind resistant material
+        > Used to had detachable insulation which was already lost when we got this coat, anyways it does not affect the way coat looks ain any way, just that it is not so warm
+      status: 'active'
+      price: 72.00
+      images:
+        - url: 'http://img0.etsystatic.com/007/0/5702188/il_570xN.388735040_9kfb.jpg'
+        - url: 'http://img2.etsystatic.com/008/0/5702188/il_570xN.388735078_m8gt.jpg'
+        - url: 'http://img2.etsystatic.com/006/0/5702188/il_570xN.388735062_ax97.jpg'
+        - url: 'http://img3.etsystatic.com/006/0/5702188/il_570xN.388731547_sqki.jpg'
+    - title: 'Motion Sickness Anti Nausea Bracelets'
+      description: |
+        Fully adjustable black cotton band trimmed in blues and greens with blue rose.
+        Bracelets alleviate the symptoms associated with motion sickness, sea sickness, morning sickness, treatment related nausea, heartburn, indigestion, stomachaches, anxiety, and palpitations.
+        Bracelets (pair) are placed two fingers width from your wrist bone at pressure point P6 on both wrists (full directions enclosed). The effectiveness of these bracelets depends on proper placement of the pressure bead.
+        Bracelets are 5/8 inch in width. The material is soft and elasticated with a velcro closure for adjustability.
+        All designs are unique and may vary.
+        They are machine washable on delicate/handwash cycle. Please place in a lingerie bag for protection.
+      status: 'active'
+      price: 19.95
+      images:
+        - url: 'http://img2.etsystatic.com/012/0/6836338/il_570xN.447311686_2xkr.jpg'
+        - url: 'http://img3.etsystatic.com/016/0/6836338/il_570xN.447318063_4yir.jpg'
+        - url: 'http://img3.etsystatic.com/010/0/6836338/il_570xN.447318083_g71c.jpg'
+        - url: 'http://img3.etsystatic.com/012/0/6836338/il_570xN.447318119_70ey.jpg'
+    - title: "Men's Jacket Vintage Plaid Light Retro Pendleton Belted Large Coat"
+      description: |
+        This vintage mens jacket is from Pendleton. Super retro style with a 4 1/4" deep notched lapel with scooped waist pockets. There is a unattached belt and wide belt loops. In a fun plaid of blue, yellow and green. Fully lined in a cobalt blue. Three leather-look buttons to close and one at each cuff. An unvented, solid back.
+        In excellent vintage condition other than on small snag at the back shoulder.
+        Click any pic twice to see closer.
+      status: 'active'
+      price: 48.00
+      images:
+        - url: 'http://img0.etsystatic.com/013/0/6245145/il_570xN.451817320_epdr.jpg'
+        - url: 'http://img1.etsystatic.com/009/0/6245145/il_570xN.451465089_foh6.jpg'
+        - url: 'http://img3.etsystatic.com/016/0/6245145/il_570xN.451464863_4p1v.jpg'
+        - url: 'http://img2.etsystatic.com/010/0/6245145/il_570xN.451460738_dase.jpg'
+    - title: 'Korean Fashion Asymmetrical Avant Garde Slim Fit'
+      description: |
+        This Futuristic fashion forward edge asymmetrical designed wool blazer jacket is eye-catching. With its fashion forward edge, this custom tailored blazer features sharp diagonal cuts and straight slim lines. Single vent at the centre of the jacket and a standing collar. This versatile blazer jacket would go excellent with slim fitting jeans or slacks.
+      status: 'active'
+      price: 68.00
+      images:
+        - url: 'http://img3.etsystatic.com/010/1/8061110/il_570xN.451159683_rlof.jpg'
+        - url: 'http://img2.etsystatic.com/010/0/8061110/il_570xN.451156626_4jiz.jpg'
+        - url: 'http://img0.etsystatic.com/013/0/8061110/il_570xN.451154952_7btk.jpg'
+        - url: 'http://img3.etsystatic.com/012/0/8061110/il_570xN.451159639_i9yu.jpg'
+    - title: "Excellent Condition Men's Black Grosgrain Silk Top Hat"
+      description: |
+        This beautiful top hat from the 20-30's is made of a silk grosgrain fabric. It is in excellent condition and found stored in the Dobb's hat box in another listing of mine when given to me. It was my Aunt's Father in law's...probably the first of his top hat's. He had several. It was purchased at Croll & Keck, dealers in men's hat's and clothing since the early 20's in Reading, PA.
+        This hat shows no sign of wear at all. It is for a men's size 7. It's shape is like the beaver fur hat I've listed as it has a brim that is arched and curved toward the sides and flat near the front and back. The hat is trimmed and piped at the brim edge in black grosgrain ribbon. The top of the hat is slightly curved outward, giving it an especially elegant look to it. In the research I've been doing, I've not seen an all grosgrain fabric top hat. It's quite wonderful!
+      status: 'active'
+      price: 42.00
+      images:
+        - url: 'http://img2.etsystatic.com/005/0/6075230/il_570xN.400999122_amit.jpg'
+        - url: 'http://img0.etsystatic.com/003/0/6075230/il_570xN.400999516_mdmc.jpg'
+        - url: 'http://img1.etsystatic.com/003/0/6075230/il_570xN.400994189_l2fa.jpg'
+        - url: 'http://img0.etsystatic.com/007/0/6075230/il_570xN.400999532_l164.jpg'
+    - title: 'Mens Hat - mustard brown Corduroy'
+      description: |
+        Fab mens flat cap hat handmade from this fantastic light mustard brown corduroy. Fully lined with a cotton fabric. Bang on trend this season. My grandad was a true Yorkshireman and I designed the cap with him in mind! Whippet dog recommended but not essential.
+        made to order in the following sizes
+        small - will fit up to 21.5"
+        medium - will fit up to 22.5"
+        large - will fit up to 23.5"
+        xlarge - up to 24.5"
+        xxlarge - up to 25.5"
+      status: 'active'
+      price: 23.99
+      images:
+        - url: 'http://img1.etsystatic.com/015/0/5538021/il_570xN.452039821_bul3.jpg'
+        - url: 'http://img3.etsystatic.com/014/0/5538021/il_570xN.452039739_lezr.jpg'
+        - url: 'http://img0.etsystatic.com/011/0/5538021/il_570xN.452033012_9pcc.jpg'
+        - url: 'http://img1.etsystatic.com/013/0/5538021/il_570xN.452039961_l3k0.jpg'
+    - title: '2x Classic Clubmaster deadstock sunglasses'
+      description: |
+        A pair of classic Clubmaster deadstock sunglasses. New, never worn vintage from the 80s. Set includes variations of black, subject to availability.
+        ***PLEASE NOTE, classic Clubmaster deadstock sunglasses are available in several variations of black and tortoise, subject to availability, and will be issued at random. If you have a preference, please include in "note to seller" at checkout.
+      status: 'active'
+      price: 24.00
+      images:
+        - url: 'http://img3.etsystatic.com/014/0/7861538/il_570xN.439596043_jeky.jpg'
+        - url: 'http://img1.etsystatic.com/013/0/7861538/il_570xN.449064889_ek3k.jpg'
+        - url: 'http://img2.etsystatic.com/014/0/7861538/il_570xN.437936154_lvol.jpg'
+    - title: 'Sleek Classic Mechanical Wrist Watch (Automatic) with Stainless Steel Watch Band'
+      description: |
+        This sleek stainless steel, black and gold-tone watch is the perfect combination of vintage aesthetic paired with the modern accents of an automatic mechanical wrist watch. We love the classic look of the stainless steel, while a window in the dial revealing the inner watch movement gears making it a perfect watch for today's modern style.
+        This mechanical wrist watch is self-winding or and automatic watch that rewinds the mainspring of the mechanical movement by the natural motions of the wearer's body. The dial face is beautifully black with gold tabs marking number locations. This Oyster style link watch band is made of stainless steel and is a silver-tone bracelet designed for a casual or dress look. The watch band clasp is called a “Tri-Fold clasp", which gives you quick release and removal of the band the band plus the band can be adjusted. The front and back view windows are incredible crystal clear hardlex glass which is designed for regular wear without scratching and is resistant to impact. You can view the watch movement gears in motion through the front and back view windows.
+      status: 'active'
+      price: 56.00
+      images:
+        - url: 'http://img0.etsystatic.com/007/0/5671421/il_570xN.403336268_juow.jpg'
+        - url: 'http://img1.etsystatic.com/007/0/5671421/il_570xN.403332741_by4c.jpg'
+        - url: 'http://img0.etsystatic.com/003/0/5671421/il_570xN.403336468_j4ms.jpg'
+        - url: 'http://img0.etsystatic.com/003/0/5671421/il_570xN.403336948_t0n1.jpg'
+    - title: 'Gold/Brass-Look Distressed Resp. AND Goggles'
+      description: |
+        This listing is for a matching 2 piece set of fully functional LIGHTWEIGHT SINGLE FILTER gas mask respirator and goggles with spikes and interchangeable lenses.
+        This set also comes in a variety of other colors . See my other listings for other colors.
+        The goggles come with interchangeable UV-400 polycarbonate 2" (50mm) lenses.
+        Other lenses may also be purchased. Lens colors are: blue, green, smoke, pink, purple, orange, red, yellow or clear. Printed lenses are available as well.
+        See other listings for additional lenses.
+        Masks and goggles may be sold separately.
+      status: 'active'
+      price: 43.50
+      images:
+        - url: 'http://img0.etsystatic.com/006/0/5871904/il_570xN.381815260_isx9.jpg'
+        - url: 'http://img1.etsystatic.com/007/0/5871904/il_570xN.381810433_h1xw.jpg'
+        - url: 'http://img0.etsystatic.com/004/0/5871904/il_570xN.381815340_j60z.jpg'
+        - url: 'http://img1.etsystatic.com/007/0/5871904/il_570xN.381810797_idu3.jpg'
+    - title: 'Steampunk Flask - Octopus Brass'
+      description: |
+        A large brass octopus enhances the front of this beautiful flask. The flask is stainless steel and features a screwcap with band to keep the cap and flask together. The flask itself measures 3-3/4 inches wide x 6 inches high and holds a generous 6 ounces of liquid courage.
+        Makes a great gift for that special guy, groomsmen or bridesmaids. Great for the lover of the sea, explorer or someone just interested in marine life.
+        See shop policies regarding payment, shipping and returns. If you have ideas for a different focal point on your flask, convo me and I'll see what we can work out.
+        This item ships in a box for protection.
+      status: 'active'
+      price: 28.40
+      images:
+        - url: 'http://img0.etsystatic.com/000/0/6261049/il_570xN.296565632.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/6261049/il_570xN.296565656.jpg'
+        - url: 'http://img2.etsystatic.com/000/0/6261049/il_570xN.296565662.jpg'
+    - title: 'Giant Squid Octopus Image Pendant Necklace'
+      description: |
+        Steampunk giant squid or octopus image is captured under a protective glass cabochon. The image is mounted in a 30mm (1-1/4 inch) bronze plated frame. Hanging together with the image are two charms, a ships wheel and a mermaid. Additionally, a real shell pearl and a turquoise bead augment the assembly. The chain measures 22 inches and closes in the back with a lobster clasp.
+        See shop policies regarding payment, shipping and returns.
+      status: 'active'
+      price: 15.00
+      images:
+        - url: 'http://img0.etsystatic.com/000/0/6261049/il_570xN.266781804.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/6261049/il_570xN.266781888.jpg'
+        - url: 'http://img1.etsystatic.com/000/0/6261049/il_570xN.266750909.jpg'
+    - title: 'Wool Slipper Socks for Men & Women'
+      description: |
+        Wool Slipper Socks for Men & Women
+        - Comfortably warm
+        - Suede leather bottom
+        - Suede heel & toe caps for durability
+        - Wool lined sole
+        - Eco friendly, made from 85% recycled materials
+        At the end of the day, pull off your shoes and relax in warm slipper socks. My slippers are made from densely felted wool sweaters and leather apparel. Soft suede leather is used for the soles to keep you from slipping on smooth floors. The soft, minimalist soles allow feet to move and grow freely. Stuff them in your bag when you travel to make any place feel like home. Machine wash with cold water.
+      status: 'active'
+      price: 88.00
+      images:
+        - url: 'http://img0.etsystatic.com/000/0/5401073/il_570xN.287221944.jpg'
+        - url: 'http://img2.etsystatic.com/000/0/5401073/il_570xN.287221990.jpg'
+        - url: 'http://img0.etsystatic.com/000/0/5401073/il_570xN.172480580.jpg'
+        - url: 'http://img2.etsystatic.com/000/0/5401073/il_570xN.340223542.jpg'

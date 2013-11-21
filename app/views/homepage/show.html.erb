@@ -1,0 +1,53 @@
+<div class="row-fluid">
+  <div class="span12">
+    <h3>Popular Products</h3>
+  </div>
+</div>
+
+<div class="row-fluid">
+  <% @highlights.popular_products.each do |product| %>
+    <div class="span3">
+      <div class="product-display">
+        <%= render partial: 'popular_product',
+                   locals: {product: product} %>
+      </div>
+    </div>
+  <% end %>
+</div>
+
+<div class="row-fluid">
+    <div class="span6">
+      <h3>Popular Store</h3>
+
+      <div class="store-display">
+        <%= render partial: 'popular_store',
+                   locals: {store: @highlights.popular_store} %>
+      </div>
+    </div>
+    <div class="span6">
+      <h3>Recent Store</h3>
+
+      <div class="store-display">
+        <%= render partial: 'popular_store',
+                   locals: {store: @highlights.recent_store} %>
+      </div>
+    </div>
+</div>
+
+<div class="row-fluid">
+  <div class="span12">
+    <h3>Recent Products</h3>
+  </div>
+</div>
+
+<div class="row-fluid">
+  <% @highlights.recent_products.each do |recent_product| %>
+    <div class="span2">
+
+      <div class="recent-products-display">
+        <%= render partial: 'recent_product',
+                   locals: {recent_product: recent_product} %>
+      </div>
+    </div>
+  <% end %>
+</div>

@@ -1,0 +1,12 @@
+<ul class="nav nav-pills">
+  <li class="<%= active_tab == nil ? 'active' : ''%>">
+    <%= link_to "#{status_count.values.inject(&:+)} Total",
+                store_admin_dashboard_path(current_store) %>
+  </li>
+  <% %w(pending cancelled paid shipped returned).each do |order_status| %>
+    <li class="<%= active_tab == order_status ? 'active' : ''%>">
+    <%= link_to status_count(order_status),
+                store_admin_dashboard_path(current_store, status: order_status) %>
+    </li>
+  <% end %>
+</ul>

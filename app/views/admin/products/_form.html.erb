@@ -1,0 +1,33 @@
+<%= simple_form_for [current_store, :admin, @product],
+                    :html => { :multipart => true }  do |f| %>
+  <div class="image_management">
+  <%= f.simple_fields_for :images do |s| %>
+    <%= s.label 'Images <small>(Must be < 2MB)</small>' %>
+      <% (0..3).each do |i| %>
+        <% if @product.images[i] %>
+          <span class='admin-thumb'>
+            <%= image_tag @product.images[i].data.url(:thumb),
+                          :'data-image-id' => "#{@product.images[i].id}" %>
+            <div class='text-thumb'>
+              Delete?
+            </div>
+          </span>
+        <% else %>
+          <br>
+          <%= s.file_field "data_#{i}" %>
+        <% end %>
+      <% end %>
+    <br>
+  <% end %>
+</div>
+
+  <%= f.input :title, input_html: { placeholder: t('placeholder.product.title') } %>
+  <%= f.input :description, input_html: { placeholder: t('placeholder.product.description') } %>
+  <%= f.input :price, wrapper: :prepend do %>
+    <%= content_tag :span, t('bling.bling'), :class => "add-on" %>
+    <%= f.input_field :price, placeholder: '9.99', class: 'span1' %>
+  <% end %>
+  <%= f.association :categories %>
+  <%= f.input :status, as: :radio_buttons, collection: ['active', 'retired'] %>
+  <%= f.button :submit, t('submit'), class:'btn btn-custom-lighten' %>
+<% end %>

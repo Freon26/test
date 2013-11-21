@@ -1,0 +1,30 @@
+<div class="user-index">
+  <%= render partial: 'shared/admin_navigation', locals: { active: :dashboard } %>
+
+  <div class="span8">
+    <h1><%= t 'admin.dashboard' %></h1>
+    <hr>
+    <%# TODO: Fix order links to correctly use new guid schema %>
+
+    <%= render partial: 'admin_dashboard_nav',
+               locals: { active_tab: @admin_order_view.active_tab,
+                         status_count: @admin_order_view.status_count } %>
+    <% if @admin_order_view.orders.present? %>
+        <br>
+        <table class="table">
+          <thead>
+          <th>#</th>
+          <th>Created at</th>
+          <th>Status</th>
+          <th>Total</th>
+          <th>Your Cut</th>
+          </thead>
+          <tbody>
+          <%= render @admin_order_view.orders %>
+          </tbody>
+        </table>
+    <% else %>
+        <%= t 'order.none' %>
+    <% end %>
+  </div>
+</div>

@@ -1,0 +1,57 @@
+<div class="row-fluid">
+  <h3><%= link_to @product.store.name, store_home_path(current_store) %></h3>
+
+  <div class="prod_detail_img span6">
+    <!-- TODO: Refactor to partial -->
+    <div class="row">
+      <div class='main_image'>
+        <%= image_tag @product.img.url(:large),
+                      :class => 'pull-left' %>
+      </div>
+      <div class="span1">
+        <% @product.images.each_with_index do |image, i| %>
+          <%= image_tag image.data.url(:thumb),
+                        :'data-url' => @product.images[i].data.url(:large),
+                        :class => 'thumb' %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="prod_detail_text span5">
+    <h2><% t('product.title') %><%= @product.title %></h2>
+    <hr>
+    <p><% t('product.description') %><%= @product.description %></p>
+
+    <div id="product-categories">
+      <b><%= t('categories.self') %>:</b>
+      <% @product.categories.each do |category| %>
+      <span class="label"><%= category.title %></span>
+      <% end %>
+    </div>
+
+    <br>
+    <h4><%= t('product.price') %>: <%= number_to_currency(@product.price) %></h4>
+    <br>
+
+    <div>
+    <% if @product.status == 'active' %>
+      <%= render partial: 'add_to_cart_button', locals: {product: @product} %>
+      <%= render partial: 'buy_now_button', locals: {product: @product} %>
+      <% if logged_in? %>
+        <%= render partial: 'add_to_collection_button', locals: {product: @product} %>
+      <% end%>
+    <% else %>
+      <p> Product is retired! </p>
+    <% end %>
+    </div>
+
+  </div>
+</div>
+
+<script>
+    $('.thumb').on('mouseover', function () {
+        var url = $(this).data('url');
+        $('.main_image').html('<img src=' + url + '/ class="pull-left">');
+    });
+</script>
