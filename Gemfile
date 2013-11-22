@@ -4,14 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0'
 
 # Use sqlite3 as the database for Active Record
-#gem 'sqlite3'
-group :production do
-  gem 'pg'
-end        
-
-group :development, :test do
-  gem 'sqlite3'
-end
+gem 'sqlite3'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
@@ -51,8 +44,8 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'rails_12factor', group: :production
+gem 'money', '~> 5.1.1'
 
-gem 'spree', '2.1.3'
+gem 'spree', '2.1.2'
 gem 'spree_gateway', :git => 'https://github.com/spree/spree_gateway.git', :branch => '2-1-stable'
 gem 'spree_auth_devise', :git => 'https://github.com/spree/spree_auth_devise.git', :branch => '2-1-stable'

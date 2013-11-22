@@ -1,3 +1,3 @@
 # Be sure to restart your server when you modify this file.
 
-Store::Application.config.session_store :cookie_store, key: '_store_session'
+MyStore::Application.config.session_store :cookie_store, key: '_my_store_session'

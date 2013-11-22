@@ -1,4 +1,4 @@
-Store::Application.routes.draw do
+MyStore::Application.routes.draw do
 
   # This line mounts Spree's routes at the root of your application.
   # This means, any requests to URLs such as /products, will go to Spree::ProductsController.
@@ -60,6 +60,4 @@ Store::Application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
-
-  break if ARGV.join.include? 'assets:precompile'
 end
